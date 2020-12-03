@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>AudioPlayer</OriginalElement>
+  <nodes>
+    <node x="7.0" y="859.0">javafx.fxml.Initializable</node>
+    <node x="13.75" y="313.5">MultimediaControl</node>
+    <node x="632.25" y="550.0">MonitorType</node>
+    <node x="712.0" y="1007.0">Screen</node>
+    <node x="868.25" y="517.0">ItemType</node>
+    <node x="0.0" y="583.0">AudioPlayer</node>
+    <node x="240.25" y="214.0">Product</node>
+    <node x="0.0" y="963.0">Controller</node>
+    <node x="502.25" y="12.0">java.io.Serializable</node>
+    <node x="256.0" y="594.0">MoviePlayer</node>
+    <node x="318.0" y="859.0">javafx.application.Application</node>
+    <node x="240.25" y="0.0">Item</node>
+    <node x="664.25" y="0.0">java.lang.constant.Constable</node>
+    <node x="937.0" y="859.0">ProductionRecord</node>
+    <node x="1192.0" y="859.0">Employee</node>
+    <node x="692.25" y="104.0">java.lang.Enum</node>
+    <node x="712.0" y="859.0">ScreenSpec</node>
+    <node x="1062.25" y="0.0">java.lang.Comparable</node>
+    <node x="413.0" y="1250.0">Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Screen" target="ScreenSpec">
+      <point x="0.0" y="-93.5" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="AudioPlayer" target="Product">
+      <point x="59.0" y="-115.5" />
+      <point x="177.0" y="563.0" />
+      <point x="294.5" y="563.0" />
+      <point x="-54.25" y="159.5" />
+    </edge>
+    <edge source="java.lang.Enum" target="java.lang.constant.Constable">
+      <point x="0.0" y="-181.5" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="java.lang.Enum" target="java.lang.Comparable">
+      <point x="107.33333333333337" y="-181.5" />
+      <point x="960.5833333333334" y="79.0" />
+      <point x="1136.25" y="79.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="Main" target="javafx.application.Application">
+      <point x="0.0" y="-38.0" />
+      <point x="0.0" y="170.5" />
+    </edge>
+    <edge source="Product" target="Item">
+      <point x="0.0" y="-159.5" />
+      <point x="0.0" y="82.0" />
+    </edge>
+    <edge source="MoviePlayer" target="Product">
+      <point x="49.0" y="-104.5" />
+      <point x="54.25" y="159.5" />
+    </edge>
+    <edge source="ItemType" target="java.lang.Enum">
+      <point x="0.0" y="-93.5" />
+      <point x="966.25" y="492.0" />
+      <point x="933.75" y="492.0" />
+      <point x="80.5" y="181.5" />
+    </edge>
+    <edge source="Controller" target="javafx.fxml.Initializable">
+      <point x="0.0" y="-280.5" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="java.lang.Enum" target="java.io.Serializable">
+      <point x="-107.33333333333326" y="-181.5" />
+      <point x="745.9166666666667" y="79.0" />
+      <point x="573.25" y="79.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="MonitorType" target="java.lang.Enum">
+      <point x="0.0" y="-60.5" />
+      <point x="740.25" y="492.0" />
+      <point x="772.75" y="492.0" />
+      <point x="-80.5" y="181.5" />
+    </edge>
+    <edge source="AudioPlayer" target="MultimediaControl">
+      <point x="-59.0" y="-115.5" />
+      <point x="-45.25" y="60.0" />
+    </edge>
+    <edge source="MoviePlayer" target="MultimediaControl">
+      <point x="-49.0" y="-104.5" />
+      <point x="305.0" y="553.0" />
+      <point x="149.5" y="553.0" />
+      <point x="45.25" y="60.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6740748074805554" x="325.7842757157383" y="810.9937296505334" />
+  <SelectedNodes>
+    <node>AudioPlayer</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
