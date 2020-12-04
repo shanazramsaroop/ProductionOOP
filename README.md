@@ -16,4 +16,7 @@ https://shanazramsaroop.github.io/ProductionOOP/package-summary.html
 # Diagrams
 
 ![Database diagram](docs/database_diagram.png) </br>
-Database Diagram
+Database Diagram </br> </br>
+
+![Class diagram](docs/class_diagram.png) </br>
+
