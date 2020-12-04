@@ -10,7 +10,7 @@ This project was a semester long project for a Object Oriented Programming cours
 </br>
 
 # Documentation
-[j]https://shanazramsaroop.github.io/ProductionOOP/package-summary.html
+[j](https://shanazramsaroop.github.io/ProductionOOP/package-summary.html)
 
 # Diagrams
 
