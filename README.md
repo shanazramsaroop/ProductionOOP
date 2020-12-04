@@ -19,4 +19,13 @@ https://shanazramsaroop.github.io/ProductionOOP/package-summary.html
 Database Diagram </br> </br>
 
 ![Class diagram](docs/class_diagram.png) </br>
-Class Diagram </br> </br>
+Class Diagram </br> 
+
+# Built with
+
+* IntelliJ was the IDE used
+
+# Author
+
+Shanaz Ramsaroop
+
