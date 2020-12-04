@@ -11,4 +11,4 @@ This project was a semester long project for a Object Oriented Programming cours
 
 # Documentation
 
-https://shanazramsaroop.github.io/ProductionOOP/docs/index.html
+https://shanazramsaroop.github.io/ProductionOOP/package-summary.html
