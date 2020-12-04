@@ -50,7 +50,7 @@ Connect to database </br>
 Added Product button event handler and code to insert a product into the database in the Product Line tab.</br>
 For the ComboBox Populate with values 1-10 in the Produce tab. </br>
 </br>
-![](giphy.gif)
+![](desktop/giphy.gif)
 </br>
 
 
