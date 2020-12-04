@@ -50,6 +50,9 @@ Connect to database </br>
 Added Product button event handler and code to insert a product into the database in the Product Line tab.</br>
 For the ComboBox Populate with values 1-10 in the Produce tab. </br>
 </br>
+</br>
+file:///Users/shanazramsaroop/Users/shanazramsaroop/Documents/OneDrive%20-%20Florida%20Gulf%20Coast%20University/ProductionProject/docs/package-summary.html
+</br>
 ![Demo](docs/giphy.gif)
 </br>
 
