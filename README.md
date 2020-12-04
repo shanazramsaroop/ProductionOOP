@@ -6,7 +6,7 @@ This project was a semester long project for a Object Oriented Programming cours
 
 # Demonstration
 </br>
-![Demo](docs/giphy.gif)
+![Demonstration](docs/giphy.gif) </br>
 </br>
 
 # Documentation
