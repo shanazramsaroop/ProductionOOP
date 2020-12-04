@@ -13,4 +13,4 @@ This project was a semester long project for a Object Oriented Programming cours
 
 https://shanazramsaroop.github.io/ProductionOOP/package-summary.html
 
-[](docs/database_diagram.png)
+![](docs/database_diagram.png)
