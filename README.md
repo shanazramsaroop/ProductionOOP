@@ -4,7 +4,6 @@ This program is for a media player production facility, which will help them to 
 
 This project was a semester long project for a Object Oriented Programming course. Using guidelines given by the professor of the course, I did this project. This assignment was a great way to learn object oriented programming, especially as this was my first experience with object oriented programming. </br>
 
-# Demonstration
 </br>
 ![Demonstration](docs/giphy.gif) </br>
 </br>
