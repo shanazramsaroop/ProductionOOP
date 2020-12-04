@@ -54,7 +54,7 @@ For the ComboBox Populate with values 1-10 in the Produce tab. </br>
 [I'm an inline-style link](file:///Users/shanazramsaroop/Users/shanazramsaroop/Documents/OneDrive%20-%20Florida%20Gulf%20Coast%20University/ProductionProject/docs/package-summary.html
 )
 
-file:///Users/shanazramsaroop/Users/shanazramsaroop/Documents/OneDrive%20-%20Florida%20Gulf%20Coast%20University/ProductionProject/docs/package-summary.html
+[file:///Users/shanazramsaroop/Users/shanazramsaroop/Documents/OneDrive%20-%20Florida%20Gulf%20Coast%20University/ProductionProject/docs/package-summary.html]
 </br>
 ![Demo](docs/giphy.gif)
 </br>
