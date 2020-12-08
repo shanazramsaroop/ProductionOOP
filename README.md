@@ -6,8 +6,6 @@ This project was a semester long project for a Object Oriented Programming cours
 
 # Demonstration
 
-![Demonstration](docs/giphy.gif) 
-
 ![Demonstration](docs/demo.gif) 
 
 # Documentation
