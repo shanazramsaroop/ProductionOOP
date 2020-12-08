@@ -4,23 +4,24 @@
  * @author Shanaz Ramsaroop
  */
 public interface MultimediaControl {
-    /**
-     * Displays "Playing" if the user presses play
-     */
-    public void play();
 
-    /**
-     * Displays "Stopping" if the user presses stop
-     */
-    public void stop();
+  /**
+   * Displays "Playing" if the user presses play
+   */
+  public void play();
 
-    /**
-     * Displays "Previous" if the user presses previous
-     */
-    public void previous();
+  /**
+   * Displays "Stopping" if the user presses stop
+   */
+  public void stop();
 
-    /**
-     * Displays "Next" if the user presses next
-     */
-    public void next();
+  /**
+   * Displays "Previous" if the user presses previous
+   */
+  public void previous();
+
+  /**
+   * Displays "Next" if the user presses next
+   */
+  public void next();
 }

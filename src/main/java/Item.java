@@ -4,46 +4,47 @@
  * @author Shanaz Ramsaroop
  */
 public interface Item {
-    /**
-     * Sets the product id of this item.
-     *
-     * @param id This item's id.
-     */
-    public void setId(int id);
 
-    /**
-     * Sets the manufacturer of this item.
-     *
-     * @param manufacturer This item's manufacturer.
-     */
-    public void setManufacturer(String manufacturer);
+  /**
+   * Sets the product id of this item.
+   *
+   * @param id This item's id.
+   */
+  public void setId(int id);
 
-    /**
-     * Sets the name of this item.
-     *
-     * @param name This item's name.
-     */
-    public void setName(String name);
+  /**
+   * Sets the manufacturer of this item.
+   *
+   * @param manufacturer This item's manufacturer.
+   */
+  public void setManufacturer(String manufacturer);
 
-    /**
-     * Gets the product id of this item.
-     *
-     * @return this item's product id.
-     */
-    public int getId();
+  /**
+   * Sets the name of this item.
+   *
+   * @param name This item's name.
+   */
+  public void setName(String name);
 
-    /**
-     * Gets the name of this item.
-     *
-     * @return this item's name.
-     */
-    public String getName();
+  /**
+   * Gets the product id of this item.
+   *
+   * @return this item's product id.
+   */
+  public int getId();
 
-    /**
-     * Gets the manufacturer of this item.
-     *
-     * @return this item's manufacturer.
-     */
-    public String getManufacturer();
+  /**
+   * Gets the name of this item.
+   *
+   * @return this item's name.
+   */
+  public String getName();
+
+  /**
+   * Gets the manufacturer of this item.
+   *
+   * @return this item's manufacturer.
+   */
+  public String getManufacturer();
 
 }

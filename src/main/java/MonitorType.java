@@ -4,12 +4,12 @@
  * @author Shanaz Ramsaroop
  */
 public enum MonitorType {
-    /**
-     * LCD type
-     */
-    LCD,
-    /**
-     * LED type
-     */
-    LED
+  /**
+   * LCD type
+   */
+  LCD,
+  /**
+   * LED type
+   */
+  LED
 }
